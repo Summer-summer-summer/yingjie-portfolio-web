@@ -2,17 +2,17 @@
 	{
         "id": 1,
 		"name": "Github",
-        "username": "ricocc",
+        "username": "masterofswing",
 		"image": "/assets/social/social-github.jpg",
-		"url": "https://github.com/ricocc/"
+		"url": "https://github.com/MasterOfSwing"
 	},
 
 	{
         "id": 2,
 		"name": "Xiaohongshu",
-        "username": "ricouii",
+        "username": "summer",
 		"image": "/assets/social/social-xiaohongshu.jpg",
-		"url": "https://www.xiaohongshu.com/user/profile/5f2b6903000000000101f51f"
+		"url": "https://www.xiaohongshu.com/user/profile/644df96200000000100297f6"
 	},
 
     {
@@ -34,9 +34,9 @@
     {
         "id": 5,
 		"name": "Behance",
-        "username": "ricoui",
+        "username": "yingjie chang",
 		"image": "/assets/social/social-behance.jpg",
-		"url": "https://www.behance.net/ricoui"
+		"url": "https://www.behance.net/yingjiechang"
 	},
 
     {
@@ -59,9 +59,9 @@
     {
         "id": 8,
 		"name": "Email",
-        "username": "ricocc",
+        "username": "yingjie chang",
 		"image": "/assets/social/social-email.jpg",
-		"url": "mailto:ricocc@qq.com"
+		"url": "yingjiechang_42@qq.com"
 	}
 
 
