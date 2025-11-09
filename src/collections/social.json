@@ -2,9 +2,9 @@
 	{
         "id": 1,
 		"name": "Github",
-        "username": "masterofswing",
+        "username": "summer-summer-summer",
 		"image": "/assets/social/social-github.jpg",
-		"url": "https://github.com/MasterOfSwing"
+		"url": "https://github.com/summer-summer-summer"
 	},
 
 	{
@@ -16,44 +16,11 @@
 	},
 
     {
-        "id": 3,
-		"name": "Twitter",
-        "username": "ricouii",
-		"image": "/assets/social/social-twitter.jpg",
-		"url": "https://x.com/ricouii"
-	},
-
-    {
-        "id": 4,
-		"name": "Gumroad",
-        "username": "ricoui",
-		"image": "/assets/social/social-gumroad.jpg",
-		"url": "https://ricoui.gumroad.com/"
-	},
-
-    {
         "id": 5,
 		"name": "Behance",
         "username": "yingjie chang",
 		"image": "/assets/social/social-behance.jpg",
 		"url": "https://www.behance.net/yingjiechang"
-	},
-
-    {
-        "id": 6,
-		"name": "figma",
-        "username": "ricocc",
-		"image": "/assets/social/social-figma.jpg",
-		"url": "https://www.figma.com/@ricocc",
-        "isShow": false
-	},
-
-    {
-        "id": 7,
-		"name": "Dribbble",
-        "username": "ricoui",
-		"image": "/assets/social/social-dribbble.jpg",
-		"url": "https://dribbble.com/ricoui"
 	},
 
     {
