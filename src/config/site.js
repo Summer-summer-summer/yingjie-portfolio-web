@@ -27,7 +27,8 @@ export const siteConfig = {
 		// twitterName: "ricouii",
 		github: "https://github.com/MasterOfSwing",
 		// blog: "https://ricoui.com",
-		xiaohongshu:"https://www.xiaohongshu.com/user/profile/644df96200000000100297f6"
+		xiaohongshu:"https://www.xiaohongshu.com/user/profile/644df96200000000100297f6",
+		behance: "https://www.behance.net/yingjiechang",
 	},
 };
 
